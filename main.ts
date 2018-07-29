@@ -1,6 +1,9 @@
-import { app, BrowserWindow, screen } from 'electron';
+import { app, BrowserWindow, screen, dialog, ipcMain } from 'electron';
+import * as fs from "fs-jetpack";
 import * as path from 'path';
 import * as url from 'url';
+
+import { ConnectionOptions, } from 'typeorm';
 
 let win, serve;
 const args = process.argv.slice(1);
@@ -21,7 +24,8 @@ function createWindow() {
 
   if (serve) {
     require('electron-reload')(__dirname, {
-     electron: require(`${__dirname}/node_modules/electron`)});
+      electron: require(`${__dirname}/node_modules/electron`)
+    });
     win.loadURL('http://localhost:4200');
   } else {
     win.loadURL(url.format({
@@ -43,6 +47,33 @@ function createWindow() {
 }
 
 try {
+
+  ipcMain.on('load-dir', (event, arg) => {
+    dialog.showOpenDialog({
+      title: "Select a folder",
+      properties: ["openDirectory"]
+    }, (folderPaths) => {
+      // folderPaths is an array that contains all the selected paths
+      if (folderPaths === undefined) {
+        console.log("No destination folder selected");
+        event.returnValue = "";
+      } else {
+        event.returnValue = folderPaths;
+      }
+    });
+  })
+
+  ipcMain.on('load-file', (event, filePath) => {
+    var fileData = fs.read(filePath);
+    event.returnValue = fileData;
+  });
+
+  ipcMain.on('load-json', (event, filePath) => {
+    console.log('EVENT:', event);
+    console.log('FILE PATH:', filePath)
+    var fileData = fs.read(filePath, "json");
+    event.returnValue = fileData;
+  });
 
   // This method will be called when Electron has finished
   // initialization and is ready to create browser windows.

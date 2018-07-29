@@ -1,11 +1,11 @@
-import { HomeComponent } from './components/home/home.component';
+import { BattlefieldComponent } from './components/battlefield/battlefield.component';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
     {
         path: '',
-        component: HomeComponent
+        component: BattlefieldComponent
     }
 ];
 
