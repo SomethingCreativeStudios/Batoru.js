@@ -8,20 +8,17 @@ import { debug } from 'util';
   styleUrls: ['./battlefield.component.scss']
 })
 export class BattlefieldComponent implements OnInit {
-
   private mainDir: string;
 
   constructor(private electronService: ElectronService) {
     this.loadDir();
-   }
-
-  ngOnInit() {
   }
+
+  ngOnInit() {}
 
   private loadDir() {
-    this.mainDir = "C:\\Users\\eric-\\Documents\\Wix Cards";
-    let fileData = this.electronService.ipcRenderer.sendSync("load-file", this.mainDir + "\\set\\cards.json");
+    this.mainDir = 'C:\\Users\\eric-\\Documents\\Wix Cards';
+    let fileData = this.electronService.ipcRenderer.sendSync('load-file', this.mainDir + '\\set\\cards.json');
     debugger;
   }
-
 }
