@@ -1,0 +1,1717 @@
+{
+  "MainDeck": [
+    {
+      "Id": 18,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WX-01",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-05",
+        "SP-01",
+        "SP-02",
+        "SP-03",
+        "WXD-08",
+        "SP-07",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-08",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack)\n[Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice)\n{Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant D",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_D",
+      "Guard": true,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/6/61/SP22-003.jpg/revision/latest?cb=20161021230305",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\18.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 18,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WX-01",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-05",
+        "SP-01",
+        "SP-02",
+        "SP-03",
+        "WXD-08",
+        "SP-07",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-08",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack)\n[Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice)\n{Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant D",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_D",
+      "Guard": true,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/6/61/SP22-003.jpg/revision/latest?cb=20161021230305",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\18.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 18,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WX-01",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-05",
+        "SP-01",
+        "SP-02",
+        "SP-03",
+        "WXD-08",
+        "SP-07",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-08",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack)\n[Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice)\n{Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant D",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_D",
+      "Guard": true,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/6/61/SP22-003.jpg/revision/latest?cb=20161021230305",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\18.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 18,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WX-01",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-05",
+        "SP-01",
+        "SP-02",
+        "SP-03",
+        "WXD-08",
+        "SP-07",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WXD-08",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack)\n[Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice)\n{Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant D",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_D",
+      "Guard": true,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/6/61/SP22-003.jpg/revision/latest?cb=20161021230305",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\18.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 19,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-05",
+        "SP-01",
+        "WXD-06",
+        "SP-02",
+        "SP-03",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WX-18",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-06",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack) \n [Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice) \n {Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant O",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_O",
+      "Guard": true,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/e/ef/SP22-004.jpg/revision/latest?cb=20161021230306",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\19.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 19,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-05",
+        "SP-01",
+        "WXD-06",
+        "SP-02",
+        "SP-03",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WX-18",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-06",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack) \n [Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice) \n {Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant O",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_O",
+      "Guard": true,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/e/ef/SP22-004.jpg/revision/latest?cb=20161021230306",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\19.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 19,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-05",
+        "SP-01",
+        "WXD-06",
+        "SP-02",
+        "SP-03",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WX-18",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-06",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack) \n [Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice) \n {Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant O",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_O",
+      "Guard": true,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/e/ef/SP22-004.jpg/revision/latest?cb=20161021230306",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\19.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 19,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        5
+      ],
+      "CardSets": [
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-05",
+        "SP-01",
+        "WXD-06",
+        "SP-02",
+        "SP-03",
+        "WXD-09",
+        "WXD-10",
+        "WX-07",
+        "WXD-11",
+        "WXD-13",
+        "WXD-15",
+        "WXD-17",
+        "WXD-18",
+        "SP-23",
+        "SP-24",
+        "WX-18",
+        "WXD-01",
+        "WXD-02",
+        "WXD-03",
+        "WX-01",
+        "WXD-06",
+        "WXD-09",
+        "WXD-10",
+        "WX-07"
+      ],
+      "Class": [
+        "Origin Spirit"
+      ],
+      "CardEffect": "[Guard] (By discarding this card from your hand, disable one LRIG attack) \n [Constant]: [Multi Ener] (While paying an ener cost, this card can pay for any one color of your choice) \n {Lifeburst} Life Burst: [Ener Charge 1]",
+      "CardName": "Servant O",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Servant_O",
+      "Guard": true,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/e/ef/SP22-004.jpg/revision/latest?cb=20161021230306",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": true,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\19.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Colorless} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 347,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets +3000 power.\n[Auto]: When this SIGNI is banished, if this SIGNI was accessorized, put 1 SIGNI with Accessory from your trash into the Ener Zone.\n{Lifeburst} Life Burst: Search your deck for 1 SIGNI with Accessory and put it into the Ener Zone. Then, you may put that card under 1 of your SIGNI as an [Accessory]. Then, shuffle your deck.",
+      "CardName": "Code Eat Hambur",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Hambur",
+      "Guard": false,
+      "ImageUrl": "https://vignette4.wikia.nocookie.net/selector-wixoss/images/b/b3/WD18-009.jpg/revision/latest?cb=20160923171617",
+      "Level": 4,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 12000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\347.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 347,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets +3000 power.\n[Auto]: When this SIGNI is banished, if this SIGNI was accessorized, put 1 SIGNI with Accessory from your trash into the Ener Zone.\n{Lifeburst} Life Burst: Search your deck for 1 SIGNI with Accessory and put it into the Ener Zone. Then, you may put that card under 1 of your SIGNI as an [Accessory]. Then, shuffle your deck.",
+      "CardName": "Code Eat Hambur",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Hambur",
+      "Guard": false,
+      "ImageUrl": "https://vignette4.wikia.nocookie.net/selector-wixoss/images/b/b3/WD18-009.jpg/revision/latest?cb=20160923171617",
+      "Level": 4,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 12000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\347.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 347,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets +3000 power.\n[Auto]: When this SIGNI is banished, if this SIGNI was accessorized, put 1 SIGNI with Accessory from your trash into the Ener Zone.\n{Lifeburst} Life Burst: Search your deck for 1 SIGNI with Accessory and put it into the Ener Zone. Then, you may put that card under 1 of your SIGNI as an [Accessory]. Then, shuffle your deck.",
+      "CardName": "Code Eat Hambur",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Hambur",
+      "Guard": false,
+      "ImageUrl": "https://vignette4.wikia.nocookie.net/selector-wixoss/images/b/b3/WD18-009.jpg/revision/latest?cb=20160923171617",
+      "Level": 4,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 12000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\347.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 347,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets +3000 power.\n[Auto]: When this SIGNI is banished, if this SIGNI was accessorized, put 1 SIGNI with Accessory from your trash into the Ener Zone.\n{Lifeburst} Life Burst: Search your deck for 1 SIGNI with Accessory and put it into the Ener Zone. Then, you may put that card under 1 of your SIGNI as an [Accessory]. Then, shuffle your deck.",
+      "CardName": "Code Eat Hambur",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Hambur",
+      "Guard": false,
+      "ImageUrl": "https://vignette4.wikia.nocookie.net/selector-wixoss/images/b/b3/WD18-009.jpg/revision/latest?cb=20160923171617",
+      "Level": 4,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 12000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\347.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 348,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Tendo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Tendo",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/51/WD18-010.jpg/revision/latest?cb=20160923171617",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 10000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\348.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 348,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Tendo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Tendo",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/51/WD18-010.jpg/revision/latest?cb=20160923171617",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 10000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\348.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 348,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Tendo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Tendo",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/51/WD18-010.jpg/revision/latest?cb=20160923171617",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 10000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\348.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 348,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Tendo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Tendo",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/51/WD18-010.jpg/revision/latest?cb=20160923171617",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 10000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\348.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 349,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets [Lancer].\n(When a SIGNI with [Lancer] banishes an opponent's SIGNI in battle, it crushes 1 of your opponent's Life Cloth.)",
+      "CardName": "Code Eat Curry",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Curry",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a9/WD18-011.jpg/revision/latest?cb=20160923171619",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 8000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\349.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 349,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets [Lancer].\n(When a SIGNI with [Lancer] banishes an opponent's SIGNI in battle, it crushes 1 of your opponent's Life Cloth.)",
+      "CardName": "Code Eat Curry",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Curry",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a9/WD18-011.jpg/revision/latest?cb=20160923171619",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 8000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\349.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 349,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets [Lancer].\n(When a SIGNI with [Lancer] banishes an opponent's SIGNI in battle, it crushes 1 of your opponent's Life Cloth.)",
+      "CardName": "Code Eat Curry",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Curry",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a9/WD18-011.jpg/revision/latest?cb=20160923171619",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 8000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\349.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 349,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Constant]: As long as this SIGNI is accessorized, this SIGNI gets [Lancer].\n(When a SIGNI with [Lancer] banishes an opponent's SIGNI in battle, it crushes 1 of your opponent's Life Cloth.)",
+      "CardName": "Code Eat Curry",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Curry",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a9/WD18-011.jpg/revision/latest?cb=20160923171619",
+      "Level": 3,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 8000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\349.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 350,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Oyako",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Oyako",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/f/ff/WD18-012.jpg/revision/latest?cb=20160923171620",
+      "Level": 2,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 7000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\350.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 350,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Oyako",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Oyako",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/f/ff/WD18-012.jpg/revision/latest?cb=20160923171620",
+      "Level": 2,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 7000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\350.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 350,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Oyako",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Oyako",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/f/ff/WD18-012.jpg/revision/latest?cb=20160923171620",
+      "Level": 2,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 7000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\350.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 350,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Oyako",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Oyako",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/f/ff/WD18-012.jpg/revision/latest?cb=20160923171620",
+      "Level": 2,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 7000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\350.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 351,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green}: Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +5000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Ketchu",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Ketchu",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/4/49/WD18-013.jpg/revision/latest?cb=20160923171621",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\351.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 351,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green}: Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +5000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Ketchu",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Ketchu",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/4/49/WD18-013.jpg/revision/latest?cb=20160923171621",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\351.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 351,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green}: Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +5000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Ketchu",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Ketchu",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/4/49/WD18-013.jpg/revision/latest?cb=20160923171621",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\351.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 351,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green}: Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +5000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Ketchu",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Ketchu",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/4/49/WD18-013.jpg/revision/latest?cb=20160923171621",
+      "Level": 2,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 5000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\351.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 352,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Gyudo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Gyudo",
+      "Guard": false,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/3/36/WD18-014.jpg/revision/latest?cb=20160923171621",
+      "Level": 1,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 3000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\352.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 352,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Gyudo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Gyudo",
+      "Guard": false,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/3/36/WD18-014.jpg/revision/latest?cb=20160923171621",
+      "Level": 1,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 3000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\352.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 352,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Gyudo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Gyudo",
+      "Guard": false,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/3/36/WD18-014.jpg/revision/latest?cb=20160923171621",
+      "Level": 1,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 3000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\352.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 352,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": null,
+      "CardName": "Code Eat Gyudo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Gyudo",
+      "Guard": false,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/3/36/WD18-014.jpg/revision/latest?cb=20160923171621",
+      "Level": 1,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 3000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\352.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 353,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green0} Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +2000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Mayo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Mayo",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a0/WD18-015.jpg/revision/latest?cb=20160923171622",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\353.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 353,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green0} Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +2000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Mayo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Mayo",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a0/WD18-015.jpg/revision/latest?cb=20160923171622",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\353.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 353,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green0} Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +2000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Mayo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Mayo",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a0/WD18-015.jpg/revision/latest?cb=20160923171622",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\353.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 353,
+      "Timing": [],
+      "Cost": [],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [
+        "Machine Spirit: Cooking"
+      ],
+      "CardEffect": "[Action] {Green0} Put this card from your Ener Zone under 1 of your SIGNI as an [Accessory].\n[Constant]: The <Cooking> SIGNI accessorized with this gets +2000 power.\n{Lifeburst} Life Burst: Draw 1 card.",
+      "CardName": "Code Eat Mayo",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Code_Eat_Mayo",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/a/a0/WD18-015.jpg/revision/latest?cb=20160923171622",
+      "Level": 1,
+      "LifeBurst": true,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 2000,
+      "Type": 2,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\353.jpg",
+      "CostStr": "No Cost",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 354,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 217,
+          "NumberPerColor": 0,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "Choose 1 of the following 2.\n(1)  Banish 1 of your <Cooking> SIGNI. If you do, search your deck for 1 <Cooking> SIGNI and put it into the Ener Zone. Then, shuffle your deck.\n(2) Banish 1 of your <Cooking> SIGNI. If you do, banish 1 of your opponent's SIGNI with power 15000 or more.",
+      "CardName": "Shred",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Shred",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/57/WD18-018.jpg/revision/latest?cb=20160923171657",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 4,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\354.jpg",
+      "CostStr": "{Green: 0} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 354,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 217,
+          "NumberPerColor": 0,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "Choose 1 of the following 2.\n(1)  Banish 1 of your <Cooking> SIGNI. If you do, search your deck for 1 <Cooking> SIGNI and put it into the Ener Zone. Then, shuffle your deck.\n(2) Banish 1 of your <Cooking> SIGNI. If you do, banish 1 of your opponent's SIGNI with power 15000 or more.",
+      "CardName": "Shred",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Shred",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/57/WD18-018.jpg/revision/latest?cb=20160923171657",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 4,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\354.jpg",
+      "CostStr": "{Green: 0} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 354,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 217,
+          "NumberPerColor": 0,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "Choose 1 of the following 2.\n(1)  Banish 1 of your <Cooking> SIGNI. If you do, search your deck for 1 <Cooking> SIGNI and put it into the Ener Zone. Then, shuffle your deck.\n(2) Banish 1 of your <Cooking> SIGNI. If you do, banish 1 of your opponent's SIGNI with power 15000 or more.",
+      "CardName": "Shred",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Shred",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/57/WD18-018.jpg/revision/latest?cb=20160923171657",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 4,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\354.jpg",
+      "CostStr": "{Green: 0} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 354,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 217,
+          "NumberPerColor": 0,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "Choose 1 of the following 2.\n(1)  Banish 1 of your <Cooking> SIGNI. If you do, search your deck for 1 <Cooking> SIGNI and put it into the Ener Zone. Then, shuffle your deck.\n(2) Banish 1 of your <Cooking> SIGNI. If you do, banish 1 of your opponent's SIGNI with power 15000 or more.",
+      "CardName": "Shred",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Shred",
+      "Guard": false,
+      "ImageUrl": "https://vignette1.wikia.nocookie.net/selector-wixoss/images/5/57/WD18-018.jpg/revision/latest?cb=20160923171657",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 4,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\354.jpg",
+      "CostStr": "{Green: 0} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    }
+  ],
+  "LRIGDeck": [
+    {
+      "Id": 339,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 209,
+          "NumberPerColor": 3,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "WX-15",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "[On-Play] {Coin}: Search your deck for up to 2 cards with Accessory and put them into the Ener Zone. Then, shuffle your deck.\n[Action] [1/Turn] Put 4 <Cooking> SIGNI with different levels from your Ener Zone into the trash: Add the top card of your deck to Life Cloth.",
+      "CardName": "Mel=Ange",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Mel%3DAnge",
+      "Guard": false,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/1/1b/WD18-001.jpg/revision/latest?cb=20160923171601",
+      "Level": 4,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 1,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\339.jpg",
+      "CostStr": "{Green: 3} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 341,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 211,
+          "NumberPerColor": 1,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "[On-Play]: Gain {Coin}.",
+      "CardName": "Mel=Mojito",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Mel%3DMojito",
+      "Guard": false,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/b/b4/WD18-003.jpg/revision/latest?cb=20160923171602",
+      "Level": 2,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 1,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\341.jpg",
+      "CostStr": "{Green: 1} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 342,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 212,
+          "NumberPerColor": 0,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "[On-Play] {Coin}: Put the top card of your deck into the Ener Zone.",
+      "CardName": "Mel=Spumoni",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Mel%3DSpumoni",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/2/2a/WD18-004.jpg/revision/latest?cb=20160923171607",
+      "Level": 1,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 1,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\342.jpg",
+      "CostStr": "{Green: 0} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 343,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 213,
+          "NumberPerColor": 0,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": null,
+      "CardName": "Mel=Ready",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Mel%3DReady",
+      "Guard": false,
+      "ImageUrl": "https://vignette2.wikia.nocookie.net/selector-wixoss/images/1/16/WD18-005.jpg/revision/latest?cb=20160923171608",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 1,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\343.jpg",
+      "CostStr": "{Green: 0} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    },
+    {
+      "Id": 344,
+      "Timing": [
+        0
+      ],
+      "Cost": [
+        {
+          "Id": 214,
+          "NumberPerColor": 2,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "Until end of turn, all of your <Cooking> SIGNI get \"When this SIGNI attacks, banish 1 of your opponent's SIGNI with less power than this SIGNI.\".",
+      "CardName": "Many Battles",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Many_Battles",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/6/6a/WD18-006.jpg/revision/latest?cb=20160923171608",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 0,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\344.jpg",
+      "CostStr": "{Green: 2} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "{MainPhase} "
+    },
+    {
+      "Id": 345,
+      "Timing": [
+        0,
+        1
+      ],
+      "Cost": [
+        {
+          "Id": 215,
+          "NumberPerColor": 1,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "Bet - {Coin} {Coin}\nAdd up to 3 green cards from your Ener Zone to your hand. If you bet, put up to 3 green SIGNI from your hand onto the field. The [On-Play] abilities of those SIGNI do not trigger.",
+      "CardName": "Trial and Error",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Trial_and_Error",
+      "Guard": false,
+      "ImageUrl": "https://vignette4.wikia.nocookie.net/selector-wixoss/images/f/fa/WD18-007.jpg/revision/latest?cb=20160923171609",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 0,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\345.jpg",
+      "CostStr": "{Green: 1} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "{MainPhase} {AttackPhase} "
+    },
+    {
+      "Id": 346,
+      "Timing": [],
+      "Cost": [
+        {
+          "Id": 216,
+          "NumberPerColor": 0,
+          "Color": 0
+        }
+      ],
+      "Color": [
+        0
+      ],
+      "CardSets": [
+        "WXD-18",
+        "SP-24"
+      ],
+      "Class": [],
+      "CardEffect": "Bet - {Coin}\nUntil end of turn, all of your SIGNI get +2000 power. If you bet, additionally, until end of turn, 1 of your SIGNI gets \"As long as it is your opponent's turn, this SIGNI is unaffected by your opponent's effects.\"",
+      "CardName": "Life Free from Worldly Cares",
+      "CardUrl": "http://selector-wixoss.wikia.com/wiki/Life_Free_from_Worldly_Cares",
+      "Guard": false,
+      "ImageUrl": "https://vignette3.wikia.nocookie.net/selector-wixoss/images/f/f5/WD18-008.jpg/revision/latest?cb=20160923171616",
+      "Level": 0,
+      "LifeBurst": false,
+      "LevelLimit": 0,
+      "LimitingCondition": null,
+      "MultiEner": false,
+      "Power": 0,
+      "Type": 0,
+      "CardImagePath": "C:\\Users\\eric-\\Documents\\Wix Cards\\sets\\setimages\\\\346.jpg",
+      "CostStr": "{Green: 0} ",
+      "ColorStr": "{Green} ",
+      "TimingStr": "No Timing"
+    }
+  ]
+}

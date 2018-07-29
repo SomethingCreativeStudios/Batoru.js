@@ -1,15 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 import { ElectronService } from '../../providers/electron.service';
-import { debug } from 'util';
 import { WixCard } from '../../models/wixCard';
 import { plainToClass } from 'class-transformer';
 
 @Component({
-  selector: 'batoru-battlefield',
-  templateUrl: './battlefield.component.html',
-  styleUrls: ['./battlefield.component.scss']
+  selector: 'batoru-wix-card',
+  templateUrl: './wix-card.component.html',
+  styleUrls: ['./wix-card.component.scss']
 })
-export class BattlefieldComponent implements OnInit {
+export class WixCarComponent implements OnInit {
   private mainDir: string;
 
   constructor(private electronService: ElectronService) {
