@@ -1,6 +1,7 @@
 "use strict";
 exports.__esModule = true;
 var electron_1 = require("electron");
+var elemon = require("elemon");
 var fs = require("fs-jetpack");
 var path = require("path");
 var url = require("url");
@@ -82,6 +83,13 @@ try {
         // dock icon is clicked and there are no other windows open.
         if (win === null) {
             createWindow();
+            elemon({
+                app: electron_1.app,
+                mainFile: 'main.js',
+                bws: [
+                    { bw: win, res: ['index.html', '', 'styles.css'] }
+                ]
+            });
         }
     });
 }

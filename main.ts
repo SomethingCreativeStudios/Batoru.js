@@ -1,9 +1,7 @@
 import { app, BrowserWindow, screen, dialog, ipcMain } from 'electron';
-import * as fs from "fs-jetpack";
+import { IPCFileListener} from './fileListener';
 import * as path from 'path';
 import * as url from 'url';
-
-import { ConnectionOptions, } from 'typeorm';
 
 let win, serve;
 const args = process.argv.slice(1);
@@ -44,37 +42,12 @@ function createWindow() {
     // when you should delete the corresponding element.
     win = null;
   });
+
+  // set up the file ipc commands
+  IPCFileListener.setUpIPC(win);
 }
 
 try {
-
-  ipcMain.on('load-dir', (event, arg) => {
-    dialog.showOpenDialog({
-      title: "Select a folder",
-      properties: ["openDirectory"]
-    }, (folderPaths) => {
-      // folderPaths is an array that contains all the selected paths
-      if (folderPaths === undefined) {
-        console.log("No destination folder selected");
-        event.returnValue = "";
-      } else {
-        event.returnValue = folderPaths;
-      }
-    });
-  })
-
-  ipcMain.on('load-file', (event, filePath) => {
-    var fileData = fs.read(filePath);
-    event.returnValue = fileData;
-  });
-
-  ipcMain.on('load-json', (event, filePath) => {
-    console.log('EVENT:', event);
-    console.log('FILE PATH:', filePath)
-    var fileData = fs.read(filePath, "json");
-    event.returnValue = fileData;
-  });
-
   // This method will be called when Electron has finished
   // initialization and is ready to create browser windows.
   // Some APIs can only be used after this event occurs.
