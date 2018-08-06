@@ -14,7 +14,6 @@ export class WixCardService {
 
   public getAllDecks(): String[] {
     const deckSets = new Array<String>();
-
     return deckSets;
   }
 }
