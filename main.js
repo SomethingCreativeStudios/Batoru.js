@@ -1,8 +1,7 @@
 "use strict";
 exports.__esModule = true;
 var electron_1 = require("electron");
-var elemon = require("elemon");
-var fs = require("fs-jetpack");
+var fileListener_1 = require("./fileListener");
 var path = require("path");
 var url = require("url");
 var win, serve;
@@ -39,33 +38,10 @@ function createWindow() {
         // when you should delete the corresponding element.
         win = null;
     });
+    // set up the file ipc commands
+    fileListener_1.IPCFileListener.setUpIPC(win);
 }
 try {
-    electron_1.ipcMain.on('load-dir', function (event, arg) {
-        electron_1.dialog.showOpenDialog({
-            title: "Select a folder",
-            properties: ["openDirectory"]
-        }, function (folderPaths) {
-            // folderPaths is an array that contains all the selected paths
-            if (folderPaths === undefined) {
-                console.log("No destination folder selected");
-                event.returnValue = "";
-            }
-            else {
-                event.returnValue = folderPaths;
-            }
-        });
-    });
-    electron_1.ipcMain.on('load-file', function (event, filePath) {
-        var fileData = fs.read(filePath);
-        event.returnValue = fileData;
-    });
-    electron_1.ipcMain.on('load-json', function (event, filePath) {
-        console.log('EVENT:', event);
-        console.log('FILE PATH:', filePath);
-        var fileData = fs.read(filePath, "json");
-        event.returnValue = fileData;
-    });
     // This method will be called when Electron has finished
     // initialization and is ready to create browser windows.
     // Some APIs can only be used after this event occurs.
@@ -83,13 +59,6 @@ try {
         // dock icon is clicked and there are no other windows open.
         if (win === null) {
             createWindow();
-            elemon({
-                app: electron_1.app,
-                mainFile: 'main.js',
-                bws: [
-                    { bw: win, res: ['index.html', '', 'styles.css'] }
-                ]
-            });
         }
     });
 }

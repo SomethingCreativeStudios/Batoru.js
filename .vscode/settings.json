@@ -1,0 +1,10 @@
+{
+  "workbench.editor.enablePreview": false,
+
+  "git.enableSmartCommit": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": true
+}
