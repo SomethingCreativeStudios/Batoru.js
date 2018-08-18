@@ -17,6 +17,7 @@ function createWindow() {
         width: size.width,
         height: size.height
     });
+    console.log(__dirname);
     if (serve) {
         require('electron-reload')(__dirname, {
             electron: require(__dirname + "/node_modules/electron")
@@ -30,7 +31,7 @@ function createWindow() {
             slashes: true
         }));
     }
-    win.webContents.openDevTools();
+    // win.webContents.openDevTools();
     // Emitted when the window is closed.
     win.on('closed', function () {
         // Dereference the window object, usually you would store window

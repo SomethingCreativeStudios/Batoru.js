@@ -37,7 +37,7 @@ namespace Wix_Studio.Card_Parser
                     {
                         // The 'alt' attr has what the image is suppose to be. In this case only lifeburst
                         cardEffect += "{" + node.Attributes["alt"].Value + "}";
-                        switch ( node.Attributes["alt"].Value )
+                        switch ( node.Attributes["alt"].Value ) 
                         {
                             case "Lifeburst":
                                // set the lifeburst value to ture

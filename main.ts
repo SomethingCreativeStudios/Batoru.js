@@ -19,7 +19,7 @@ function createWindow() {
     width: size.width,
     height: size.height
   });
-
+console.log(__dirname);
   if (serve) {
     require('electron-reload')(__dirname, {
       electron: require(`${__dirname}/node_modules/electron`)
@@ -33,7 +33,7 @@ function createWindow() {
     }));
   }
 
-  win.webContents.openDevTools();
+  // win.webContents.openDevTools();
 
   // Emitted when the window is closed.
   win.on('closed', () => {
