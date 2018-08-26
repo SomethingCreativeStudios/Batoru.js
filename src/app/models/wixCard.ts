@@ -1,24 +1,26 @@
 import { Type, plainToClass } from 'class-transformer';
-
+import { CardCost } from '../cardCost';
 export class WixCard {
-  public CardEffect: String;
-  public CardImagePath: String;
-  public CardName: String;
-  public CardSets: String[];
-  public CardUrl: String;
-  public Class: String[];
-  public ColorStr: String;
-  public CostStr: String;
-  public Guard: Boolean;
-  public Id: Number;
-  public ImageUrl: String;
-  public Level: Number;
-  public LevelLimt: Number;
-  public LifeBurst: Boolean;
+  public CardEffect: string;
+  public CardImagePath: string;
+  public CardName: string;
+  public CardNameJ: string;
+  public CardNameR: string;
+  public CardSets: string[];
+  public CardUrl: string;
+  public Class: string[];
+  public ColorStr: string;
+  public CostStr: string;
+  public Guard: boolean;
+  public Id: number;
+  public ImageUrl: string;
+  public Level: number;
+  public LevelLimt: number;
+  public LifeBurst: boolean;
   public LimitingCondition: any;
-  public MultiEner: Boolean;
-  public Power: Number;
-  public TimmingStr: String;
+  public MultiEner: boolean;
+  public Power: number;
+  public TimmingStr: string;
 
   @Type(() => CardCost)
   public Cost: CardCost[];
@@ -35,11 +37,7 @@ export class WixCard {
   }
 }
 
-export class CardCost {
-  public Id: Number;
-  public Color: number;
-  public NumberPerColor: Number;
-}
+
 
 export enum CardTiming {
   MainPhase = 0,

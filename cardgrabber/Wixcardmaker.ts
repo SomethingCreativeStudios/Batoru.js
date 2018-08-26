@@ -1,27 +1,20 @@
+import * as cheerio from 'cheerio';
+import { WixCard } from "../src/app/models/wixCard";
 
 
-interface IWixCard {
-    name?: string;
-    romanji?: string;
-    color?: string;
-    cardtype?: string;
-    level?: string;
-    limit?: string;
-    limiter?: string;
-    cost?: string;
-    classifier?: string; // LRIG type or LRIG Requirement
-    power?: string;
-    usetiming?: string
-
-
-}
 
 export class CardMaker {
 
     public getCardFromURL(cardURL){
         
+        const card = new WixCard;
+        card.CardUrl = "http://selector-wixoss.wikia.com/wiki/Nanashi,_That_Four";
+        
+        card.CardName = "raburabu";
+
         
 
     } 
+    
 
 }

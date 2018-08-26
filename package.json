@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@types/electron": "^1.6.10",
+    "cheerio": "^1.0.0-rc.2",
     "class-transformer": "^0.1.9",
     "colyseus": "^0.9.12",
     "electron-json-storage": "^4.1.1",
