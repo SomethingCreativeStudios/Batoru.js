@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ElectronService } from '../../providers/electron.service';
-import { WixCard } from '../../models/wixCard';
 import { plainToClass } from 'class-transformer';
+import { WixCard } from '../../models/wixCard';
+import { ElectronService } from '../../providers/electron.service';
 
 @Component({
   selector: 'batoru-battlefield',
@@ -15,7 +15,7 @@ export class BattlefieldComponent implements OnInit {
     // this.loadDir();
   }
 
-  ngOnInit() {}
+  public ngOnInit() {}
 
   private loadDir() {
     this.mainDir = 'C:\\Users\\eric-\\Documents\\Wix Cards\\sets';
