@@ -9,42 +9,31 @@ import { HttpClientModule, HttpClient } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 
-// NG Translate
-import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
-import { TranslateHttpLoader } from '@ngx-translate/http-loader';
-
 import { ElectronService } from './providers/electron.service';
 
 import { WebviewDirective } from './directives/webview.directive';
 
 import { AppComponent } from './app.component';
 import { BattlefieldComponent } from './components/battlefield/battlefield.component';
-
-// AoT requires an exported function for factories
-export function HttpLoaderFactory(http: HttpClient) {
-  return new TranslateHttpLoader(http, './assets/i18n/', '.json');
-}
+import { DeckBuilderComponent } from './components/deckBuilder/deck-builder/deck-builder.component';
+import { CardListComponent } from './components/deckBuilder/card-list/card-list.component';
+import { CardSearcherComponent } from './components/deckBuilder/card-searcher/card-searcher.component';
+import { DeckMainComponent } from './components/deckBuilder/deck-main/deck-main.component';
+import { DeckExtraComponent } from './components/deckBuilder/deck-extra/deck-extra.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BattlefieldComponent,
-    WebviewDirective
+    WebviewDirective,
+    DeckBuilderComponent,
+    CardListComponent,
+    CardSearcherComponent,
+    DeckMainComponent,
+    DeckExtraComponent,
   ],
-  imports: [
-    BrowserModule,
-    FormsModule,
-    HttpClientModule,
-    AppRoutingModule,
-    TranslateModule.forRoot({
-      loader: {
-        provide: TranslateLoader,
-        useFactory: (HttpLoaderFactory),
-        deps: [HttpClient]
-      }
-    })
-  ],
+  imports: [BrowserModule, FormsModule, HttpClientModule, AppRoutingModule],
   providers: [ElectronService],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
