@@ -4,6 +4,7 @@
     "no-implicit-dependencies": false,
     "no-debugger": true,
     "object-literal-sort-keys": false,
-    "no-empty": false
+    "no-empty": false,
+    "variable-name": false
   }
 }

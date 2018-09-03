@@ -54,6 +54,20 @@ export class FileService {
   }
 
   /**
+   * Loads file and returns it's content
+   * @param filePath path to file
+   * @returns {any} contents of file
+   */
+  public loadImageAsBase64(filePath: string): any {
+    let fileData = null;
+    if (this._electronService.isElectron) {
+      fileData = this._electronService.ipcRenderer.sendSync('load-image', filePath);
+      fileData = Buffer.from(fileData).toString('base64');
+    }
+    return fileData;
+  }
+
+  /**
    * Loads json file into an object
    * @param filePath path to file
    * @returns {any} json object

@@ -27,6 +27,10 @@ var IPCFileListener = /** @class */ (function () {
             var data = fs.read(filePath);
             event.returnValue = data;
         });
+        electron_1.ipcMain.on('load-image', function (event, filePath) {
+            var data = fs.read(filePath, "buffer");
+            event.returnValue = data;
+        });
         electron_1.ipcMain.on('find-files', function (event, filePath, matching) {
             var data = fs.find(filePath, matching);
             event.returnValue = data;
@@ -36,14 +40,18 @@ var IPCFileListener = /** @class */ (function () {
         });
         electron_1.ipcMain.on('load-json-file', function (event, filePath) {
             var data = fs.read(filePath, 'utf8');
-            data = JSON.parse(data);
+            try {
+                data = JSON.parse(data);
+            }
+            catch (ex) {
+                console.error('Error occured:', ex);
+            }
             event.returnValue = data;
         });
         electron_1.ipcMain.on('save-file', function (event, filePath, fileData) {
             // convert non-string to json string otherwise leave alone
-            fileData =
-                typeof fileData !== 'string' ? JSON.stringify(fileData) : fileData;
-            fs.write(filePath, fileData);
+            var newFileData = typeof fileData !== 'string' ? JSON.stringify(fileData) : fileData;
+            fs.write(filePath, newFileData);
             event.returnValue = '';
         });
         electron_1.ipcMain.on('delete-item', function (event, itemPath) {

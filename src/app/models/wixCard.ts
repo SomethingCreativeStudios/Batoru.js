@@ -45,7 +45,7 @@ export enum CardTiming {
   MainPhase = 0,
   AttackPhase = 1,
   SpellCutIn = 2,
-  NoTiming = 3
+  NoTiming = 3,
 }
 
 export enum CardColor {
@@ -55,7 +55,7 @@ export enum CardColor {
   Blue = 3,
   White = 4,
   Colorless = 5,
-  NoColor = 6
+  NoColor = 6,
 }
 
 export enum CardType {
@@ -64,5 +64,5 @@ export enum CardType {
   SIGNI = 2,
   Resona = 3,
   Spell = 4,
-  NoType = 5
+  NoType = 5,
 }

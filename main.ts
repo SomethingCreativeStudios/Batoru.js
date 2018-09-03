@@ -1,14 +1,17 @@
-import { app, BrowserWindow, screen, dialog, ipcMain } from 'electron';
-import { IPCFileListener} from './fileListener';
+import { app, BrowserWindow, screen, dialog, ipcMain, Menu } from 'electron';
+import { IPCFileListener } from './fileListener';
+import * as electronDebug from 'electron-debug';
 import * as path from 'path';
 import * as url from 'url';
 
-let win, serve;
+let win;
+let serve;
+
 const args = process.argv.slice(1);
 serve = args.some(val => val === '--serve');
+electronDebug();
 
 function createWindow() {
-
   const electronScreen = screen;
   const size = electronScreen.getPrimaryDisplay().workAreaSize;
 
@@ -17,20 +20,23 @@ function createWindow() {
     x: 0,
     y: 0,
     width: size.width,
-    height: size.height
+    height: size.height,
   });
-console.log(__dirname);
+
+  console.log(__dirname);
   if (serve) {
     require('electron-reload')(__dirname, {
-      electron: require(`${__dirname}/node_modules/electron`)
+      electron: require(`${__dirname}/node_modules/electron`),
     });
     win.loadURL('http://localhost:4200');
   } else {
-    win.loadURL(url.format({
-      pathname: path.join(__dirname, 'dist/index.html'),
-      protocol: 'file:',
-      slashes: true
-    }));
+    win.loadURL(
+      url.format({
+        pathname: path.join(__dirname, 'dist/index.html'),
+        protocol: 'file:',
+        slashes: true,
+      }),
+    );
   }
 
   // win.webContents.openDevTools();
@@ -69,7 +75,6 @@ try {
       createWindow();
     }
   });
-
 } catch (e) {
   // Catch Error
   // throw e;

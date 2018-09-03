@@ -20,6 +20,7 @@ import { CardListComponent } from './components/deckBuilder/card-list/card-list.
 import { CardSearcherComponent } from './components/deckBuilder/card-searcher/card-searcher.component';
 import { DeckMainComponent } from './components/deckBuilder/deck-main/deck-main.component';
 import { DeckExtraComponent } from './components/deckBuilder/deck-extra/deck-extra.component';
+import { SafeHtml } from './pipes/safe-html.pipe';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { DeckExtraComponent } from './components/deckBuilder/deck-extra/deck-ext
     CardSearcherComponent,
     DeckMainComponent,
     DeckExtraComponent,
+    SafeHtml,
   ],
   imports: [BrowserModule, FormsModule, HttpClientModule, AppRoutingModule],
   providers: [ElectronService],

@@ -1,11 +1,12 @@
 import { BattlefieldComponent } from './components/battlefield/battlefield.component';
+import { DeckBuilderComponent } from './components/deckBuilder';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
     {
         path: '',
-        component: BattlefieldComponent
+        component: DeckBuilderComponent
     }
 ];
 
