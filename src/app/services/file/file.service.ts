@@ -6,7 +6,7 @@ import { resolve } from 'url';
   providedIn: 'root',
 })
 export class FileService {
-  constructor(private _electronService: ElectronService) { }
+  constructor(private _electronService: ElectronService) {}
 
   /**
    * Open default directory dialog.
@@ -58,13 +58,13 @@ export class FileService {
    * @param filePath path to file
    * @returns {any} contents of file
    */
-  public loadImageAsBase64(filePath: string): any {
+  public loadImageAsBase64(filePath: string, addDataType: boolean): any {
     let fileData = null;
     if (this._electronService.isElectron) {
       fileData = this._electronService.ipcRenderer.sendSync('load-image', filePath);
       fileData = Buffer.from(fileData).toString('base64');
     }
-    return fileData;
+    return addDataType === undefined || !addDataType ? fileData : 'data:image/jpg;base64,' + fileData;
   }
 
   /**
@@ -90,7 +90,6 @@ export class FileService {
     }
   }
 
-
   /**
    * Writes fileData to file. This will overwrite the file, if it exists.
    * @param filePath
@@ -101,7 +100,6 @@ export class FileService {
       this._electronService.ipcRenderer.sendSync('save-file', filePath, fileData);
     }
   }
-
 
   /**
    * Writes fileData to file. This will overwrite the file, if it exists.
@@ -115,10 +113,10 @@ export class FileService {
   }
 
   /**
- * Reads a file async.  Returns a promise that has the file data.
- * @param filePath
- * @param fileData
- */
+   * Reads a file async.  Returns a promise that has the file data.
+   * @param filePath
+   * @param fileData
+   */
   public loadFileAsync(filePath: string) {
     return new Promise((resolve, reject) => {
       let fileData = {};

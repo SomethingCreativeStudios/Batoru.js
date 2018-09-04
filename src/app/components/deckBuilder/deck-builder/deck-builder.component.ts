@@ -16,8 +16,4 @@ export class DeckBuilderComponent implements OnInit {
   }
 
   ngOnInit() {}
-
-  private loadCardImage = (wixCard: WixCard) => {
-    return this.fileService.loadImageAsBase64(<string>wixCard.CardImagePath, true);
-  };
 }

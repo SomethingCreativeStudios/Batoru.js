@@ -30,6 +30,9 @@
     "e2e": "npm run postinstall:web && ng e2e"
   },
   "dependencies": {
+    "@angular/animations": "^7.0.0-beta.0",
+    "@angular/cdk": "^7.0.0-beta.0",
+    "@angular/material": "^7.0.0-beta.0",
     "@types/electron": "^1.6.10",
     "class-transformer": "^0.1.9",
     "colyseus": "^0.9.12",
