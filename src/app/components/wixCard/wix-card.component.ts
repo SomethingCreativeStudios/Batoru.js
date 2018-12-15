@@ -15,9 +15,9 @@ export class WixCardComponent implements OnInit {
 
   constructor(private electronService: ElectronService, private fileService: FileService) {}
 
-  public ngOnInit() {}
+  public ngOnInit() { }
 
-  private loadCardImage = () => {
+  public loadCardImage = () => {
     return this.fileService.loadImageAsBase64(<string>this.wixCard.CardImagePath, true);
   };
 }

@@ -9,7 +9,7 @@ import { FileService } from '../../../services/file/file.service';
   styleUrls: ['./deck-builder.component.scss'],
 })
 export class DeckBuilderComponent implements OnInit {
-  private wixCards: WixCard[];
+  public wixCards: WixCard[];
 
   constructor(wixCardService: WixCardService, private fileService: FileService) {
     this.wixCards = wixCardService.loadCards();

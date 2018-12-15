@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var electron_1 = require("electron");
 var fileListener_1 = require("./fileListener");
 var electronDebug = require("electron-debug");
@@ -17,13 +17,13 @@ function createWindow() {
     win = new electron_1.BrowserWindow({
         x: 0,
         y: 0,
-        width: size.width,
-        height: size.height
+        width: 1580,
+        height: 990,
     });
     console.log(__dirname);
     if (serve) {
         require('electron-reload')(__dirname, {
-            electron: require(__dirname + "/node_modules/electron")
+            electron: require(__dirname + "/node_modules/electron"),
         });
         win.loadURL('http://localhost:4200');
     }
@@ -31,7 +31,7 @@ function createWindow() {
         win.loadURL(url.format({
             pathname: path.join(__dirname, 'dist/index.html'),
             protocol: 'file:',
-            slashes: true
+            slashes: true,
         }));
     }
     // win.webContents.openDevTools();
@@ -70,3 +70,4 @@ catch (e) {
     // Catch Error
     // throw e;
 }
+//# sourceMappingURL=main.js.map

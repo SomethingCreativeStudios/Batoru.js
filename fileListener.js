@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var electron_1 = require("electron");
 var fs = require("fs-jetpack");
 var IPCFileListener = /** @class */ (function () {
@@ -11,7 +11,7 @@ var IPCFileListener = /** @class */ (function () {
         });
         electron_1.ipcMain.on('pick-directory', function (event) {
             var dir = electron_1.dialog.showOpenDialog(win, {
-                properties: ['openDirectory']
+                properties: ['openDirectory'],
             });
             event.returnValue = dir;
         });
@@ -63,3 +63,4 @@ var IPCFileListener = /** @class */ (function () {
     return IPCFileListener;
 }());
 exports.IPCFileListener = IPCFileListener;
+//# sourceMappingURL=fileListener.js.map
